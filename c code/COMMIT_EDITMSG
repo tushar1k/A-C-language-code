@@ -1,0 +1,61 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Formate.c
+#	new file:   a.exe
+#	new file:   arr-reverce.c
+#	new file:   arr-reverce.exe
+#	new file:   arrayop.c
+#	new file:   arrayop.exe
+#	new file:   binary.c
+#	new file:   binary.exe
+#	new file:   binary_recc.c
+#	new file:   binary_recc.exe
+#	new file:   code6-book-QA.c
+#	new file:   code6-book-QA.exe
+#	new file:   codeshef2.c
+#	new file:   codeshef2.exe
+#	new file:   del_at_end.c
+#	new file:   del_at_end.exe
+#	new file:   dletion_in_array.c
+#	new file:   dletion_in_array.exe
+#	new file:   index_chng.c
+#	new file:   index_chng.exe
+#	new file:   indx-cng.c
+#	new file:   indx-cng.exe
+#	new file:   insertion-sort.c
+#	new file:   insertion-sort.exe
+#	new file:   linear-srch.c
+#	new file:   linear-srch.exe
+#	new file:   main.c
+#	new file:   main.exe
+#	new file:   qa.c
+#	new file:   qa.exe
+#	new file:   queue.c
+#	new file:   queue.exe
+#	new file:   rough.c
+#	new file:   rough.exe
+#	new file:   rough21.c
+#	new file:   rough21.exe
+#	new file:   rough3.c
+#	new file:   rough3.exe
+#	new file:   rr_insertion.c
+#	new file:   rr_insertion.exe
+#	new file:   selection-sort.c
+#	new file:   selection-sort.exe
+#	new file:   shorting.c
+#	new file:   shorting.exe
+#	new file:   stack-array.exe
+#	new file:   stack.c
+#	new file:   stack.exe
+#	new file:   stack_arr.c
+#	new file:   swap.c
+#	new file:   swap.exe
+#	new file:   tempCodeRunnerFile.c
+#
